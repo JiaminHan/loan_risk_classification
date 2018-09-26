@@ -5,9 +5,8 @@ Take a look at `Lending Club Loan Prediction.pdf` to overview the project. For m
 
 ## Repo structure
 
- - `bin`: Contains code for data collection and model building.
- - `notebook`: Contains jupyter notebooks used for EDA and chart creation
- - `output`: Contains files of results
+ - `Code`: Contains code for data collection and model building.
+ - `Figures`: Contains files of results
 
 ### Python Environment
 Python code in this repo utilizes packages that are not part of the common library. To make sure you have all of the 
